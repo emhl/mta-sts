@@ -1,6 +1,4 @@
 version: STSv1
 mode: testing
-mx: hedwig.steinr.eu
-mx: mx1.forwardemail.net
-mx: mx2.forwardemail.net
+mx: mail.steinr.eu
 max_age: 604800
