@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: mxroute.steinr.eu
+mx: mail.steinr.eu
 max_age: 604800
