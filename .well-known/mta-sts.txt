@@ -1,6 +1,7 @@
 version: STSv1
 mode: testing
 mx: mail.steinr.eu
+mx: mxroute.steinr.eu
 mx: tuesday.mxrouting.net
 mx: tuesday-relay.mxrouting.net
 max_age: 604800
